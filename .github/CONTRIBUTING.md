@@ -1,7 +1,7 @@
 # Contributing
-[issues]: https://github.com/technote-space/ts-package-template/issues
-[fork]: https://github.com/technote-space/ts-package-template/fork
-[pr]: https://github.com/technote-space/ts-package-template/compare
+[issues]: https://github.com/technote-space/material-table-localization-jp/issues
+[fork]: https://github.com/technote-space/material-table-localization-jp/fork
+[pr]: https://github.com/technote-space/material-table-localization-jp/compare
 [eslint]: https://eslint.org/
 [jest]: https://jestjs.io/
 [code-of-conduct]: CODE_OF_CONDUCT.md
