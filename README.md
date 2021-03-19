@@ -6,7 +6,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/technote-space/material-table-localization-jp/badge)](https://www.codefactor.io/repository/github/technote-space/material-table-localization-jp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/technote-space/material-table-localization-jp/blob/master/LICENSE)
 
-localization helper for Japanese.
+Localization helper for Japanese.
 
 ## Table of Contents
 
