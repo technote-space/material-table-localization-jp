@@ -23,12 +23,42 @@ localization helper for Japanese.
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Setup
-### yarn
-- `yarn setup`
-### npm
-- `npm run setup`
+## Usage
+
+### Install
+
+`yarn add @technote-space/material-table-localization-jp`
+
+or
+
+`npm i @technote-space/material-table-localization-jp`
+
+### Use
+
+e.g.
+
+```tsx
+import type {FC} from 'react';
+import {memo} from 'react';
+import MaterialTable from '@technote-space/material-table';
+import useLocalStorage from '@technote-space/material-table-localization-jp';
+
+const TestTable: FC = memo(() => {
+  const tableLocalization = useTableLocalization();
+
+  // ...
+
+  return <MaterialTable
+    localization={tableLocalization}
+    // title={title}
+    // columns={columns}
+    // data={fetchData}
+    // ...
+  />
+});
+```
 
 ## Author
+
 [GitHub (Technote)](https://github.com/technote-space)  
 [Blog](https://technote.space)
